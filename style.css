@@ -215,6 +215,7 @@ footer a {
 
   #container {
     width: 70%;
+    min-height: 90%;
   }
   .right {
     padding-left: 0;
@@ -282,7 +283,7 @@ footer a {
   }
 
   #container-signup {
-    min-height: 95%;
+    min-height: 90%;
   }
   footer {
     margin-top: 0;
